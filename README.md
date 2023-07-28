@@ -1,5 +1,6 @@
 # shopping_screens
-![Shot Final](https://github.com/templatevilla/flutterfashionapp/assets/76429360/e5abfa5d-0fe3-49f2-9189-b631e81a8906)
+![Shot Final](https://github.com/templatevilla/flutterfashionapp/assets/76429360/0d87c982-8cd6-47d7-b63d-e5410dedfd5c)
+
 
 A new Flutter project.
 
